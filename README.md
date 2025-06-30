@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte do desafio do bootcamp Santander Backend Java DIO 2025.
 
-## escrição
+## Descrição
 
 A aplicação é uma API RESTful que permite gerenciar um catálogo de livros, com funcionalidades de cadastro, edição, listagem e busca por título ou autor.
 
