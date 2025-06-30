@@ -1,0 +1,32 @@
+# Java
+*.class
+
+# Logs
+*.log
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Sistema
+*.swp
+
+# Docs
+enunciado-desafio-livros-spring.txt
